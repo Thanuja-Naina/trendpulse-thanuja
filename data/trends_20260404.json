@@ -1,0 +1,812 @@
+[
+    {
+        "pot_id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "category": "technology",
+        "score": 698,
+        "num_comments": 569,
+        "author": "firloop",
+        "collected_at": "2026-04-04 15:46:30"
+    },
+    {
+        "pot_id": 47594936,
+        "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
+        "category": "technology",
+        "score": 8,
+        "num_comments": 7,
+        "author": "cg505",
+        "collected_at": "2026-04-04 15:46:39"
+    },
+    {
+        "pot_id": 47633131,
+        "title": "Run Linux containers on Android, no root required",
+        "category": "technology",
+        "score": 127,
+        "num_comments": 42,
+        "author": "politelemon",
+        "collected_at": "2026-04-04 15:46:40"
+    },
+    {
+        "pot_id": 47621792,
+        "title": "Post Mortem: axios NPM supply chain compromise",
+        "category": "technology",
+        "score": 259,
+        "num_comments": 116,
+        "author": "Kyro38",
+        "collected_at": "2026-04-04 15:46:41"
+    },
+    {
+        "pot_id": 47618223,
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "category": "technology",
+        "score": 310,
+        "num_comments": 118,
+        "author": "denssumesh",
+        "collected_at": "2026-04-04 15:46:45"
+    },
+    {
+        "pot_id": 47622616,
+        "title": "The Technocracy Movement of the 1930s",
+        "category": "technology",
+        "score": 101,
+        "num_comments": 87,
+        "author": "lazydogbrownfox",
+        "collected_at": "2026-04-04 15:46:47"
+    },
+    {
+        "pot_id": 47635033,
+        "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+        "category": "technology",
+        "score": 70,
+        "num_comments": 31,
+        "author": "borski",
+        "collected_at": "2026-04-04 15:46:52"
+    },
+    {
+        "pot_id": 47633855,
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "category": "technology",
+        "score": 52,
+        "num_comments": 21,
+        "author": "eichin",
+        "collected_at": "2026-04-04 15:46:59"
+    },
+    {
+        "pot_id": 47632460,
+        "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+        "category": "worldnews",
+        "score": 1,
+        "num_comments": 0,
+        "author": "banks_h",
+        "collected_at": "2026-04-04 15:47:05"
+    },
+    {
+        "pot_id": 47633947,
+        "title": "The FAA\u2019s flight restriction for drones is an attempt to criminalize filming ICE",
+        "category": "entertainment",
+        "score": 399,
+        "num_comments": 117,
+        "author": "detaro",
+        "collected_at": "2026-04-04 15:47:06"
+    },
+    {
+        "pot_id": 47625952,
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "category": "entertainment",
+        "score": 712,
+        "num_comments": 181,
+        "author": "ramkarthikk",
+        "collected_at": "2026-04-04 15:47:08"
+    },
+    {
+        "pot_id": 47609492,
+        "title": "50 years measuring the cleanest air",
+        "category": "technology",
+        "score": 13,
+        "num_comments": 1,
+        "author": "defrost",
+        "collected_at": "2026-04-04 15:47:12"
+    },
+    {
+        "pot_id": 47624645,
+        "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+        "category": "technology",
+        "score": 679,
+        "num_comments": 141,
+        "author": "franze",
+        "collected_at": "2026-04-04 15:47:14"
+    },
+    {
+        "pot_id": 47632503,
+        "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+        "category": "technology",
+        "score": 195,
+        "num_comments": 91,
+        "author": "upofadown",
+        "collected_at": "2026-04-04 15:47:16"
+    },
+    {
+        "pot_id": 47633640,
+        "title": "How to Write Unmaintainable Code (1999)",
+        "category": "technology",
+        "score": 40,
+        "num_comments": 10,
+        "author": "downbad_",
+        "collected_at": "2026-04-04 15:47:17"
+    },
+    {
+        "pot_id": 47632750,
+        "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
+        "category": "entertainment",
+        "score": 97,
+        "num_comments": 38,
+        "author": "hpscript",
+        "collected_at": "2026-04-04 15:47:19"
+    },
+    {
+        "pot_id": 47626598,
+        "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
+        "category": "entertainment",
+        "score": 42,
+        "num_comments": 51,
+        "author": "luca-ctx",
+        "collected_at": "2026-04-04 15:47:24"
+    },
+    {
+        "pot_id": 47587339,
+        "title": "DCJ11Hack+ \u2013 DEC PDP/11 based homebrew computer",
+        "category": "technology",
+        "score": 26,
+        "num_comments": 0,
+        "author": "zdw",
+        "collected_at": "2026-04-04 15:47:29"
+    },
+    {
+        "pot_id": 47579818,
+        "title": "What we learned building 100 API integrations with OpenCode",
+        "category": "technology",
+        "score": 96,
+        "num_comments": 21,
+        "author": "rguldener",
+        "collected_at": "2026-04-04 15:47:31"
+    },
+    {
+        "pot_id": 47631030,
+        "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+        "category": "entertainment",
+        "score": 32,
+        "num_comments": 19,
+        "author": "sagirodin",
+        "collected_at": "2026-04-04 15:47:32"
+    },
+    {
+        "pot_id": 47630109,
+        "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+        "category": "entertainment",
+        "score": 168,
+        "num_comments": 64,
+        "author": "MaximilianEmel",
+        "collected_at": "2026-04-04 15:47:34"
+    },
+    {
+        "pot_id": 47632692,
+        "title": "Show HN: Mtproto.zig \u2013 High-performance Telegram proxy with DPI evasion",
+        "category": "entertainment",
+        "score": 16,
+        "num_comments": 11,
+        "author": "slp3r",
+        "collected_at": "2026-04-04 15:47:41"
+    },
+    {
+        "pot_id": 47627419,
+        "title": "The Axios supply chain attack used individually targeted social engineering",
+        "category": "technology",
+        "score": 40,
+        "num_comments": 10,
+        "author": "cmitsakis",
+        "collected_at": "2026-04-04 15:47:42"
+    },
+    {
+        "pot_id": 47635340,
+        "title": "Let's be Honest about AI Coding",
+        "category": "technology",
+        "score": 5,
+        "num_comments": 2,
+        "author": "lordofmoria",
+        "collected_at": "2026-04-04 15:47:44"
+    },
+    {
+        "pot_id": 47633676,
+        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+        "category": "sports",
+        "score": 57,
+        "num_comments": 49,
+        "author": "angst",
+        "collected_at": "2026-04-04 15:47:45"
+    },
+    {
+        "pot_id": 47632504,
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+        "category": "science",
+        "score": 77,
+        "num_comments": 34,
+        "author": "Bender",
+        "collected_at": "2026-04-04 15:47:50"
+    },
+    {
+        "pot_id": 47617376,
+        "title": "OpenAI Acquires TBPN",
+        "category": "technology",
+        "score": 236,
+        "num_comments": 190,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-04 15:47:54"
+    },
+    {
+        "pot_id": 47625244,
+        "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+        "category": "technology",
+        "score": 226,
+        "num_comments": 135,
+        "author": "nickslaughter02",
+        "collected_at": "2026-04-04 15:47:55"
+    },
+    {
+        "pot_id": 47612724,
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "category": "technology",
+        "score": 554,
+        "num_comments": 112,
+        "author": "AbuAssar",
+        "collected_at": "2026-04-04 15:47:57"
+    },
+    {
+        "pot_id": 47615490,
+        "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+        "category": "technology",
+        "score": 482,
+        "num_comments": 355,
+        "author": "mooreds",
+        "collected_at": "2026-04-04 15:47:59"
+    },
+    {
+        "pot_id": 47625311,
+        "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+        "category": "worldnews",
+        "score": 43,
+        "num_comments": 21,
+        "author": "tosh",
+        "collected_at": "2026-04-04 15:48:01"
+    },
+    {
+        "pot_id": 47618189,
+        "title": "Tailscale's new macOS home",
+        "category": "technology",
+        "score": 556,
+        "num_comments": 302,
+        "author": "tosh",
+        "collected_at": "2026-04-04 15:48:02"
+    },
+    {
+        "pot_id": 47634240,
+        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
+        "category": "technology",
+        "score": 27,
+        "num_comments": 2,
+        "author": "diehunde",
+        "collected_at": "2026-04-04 15:48:04"
+    },
+    {
+        "pot_id": 47615002,
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "category": "worldnews",
+        "score": 579,
+        "num_comments": 202,
+        "author": "pretext",
+        "collected_at": "2026-04-04 15:48:06"
+    },
+    {
+        "pot_id": 47617415,
+        "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+        "category": "technology",
+        "score": 353,
+        "num_comments": 190,
+        "author": "sedev",
+        "collected_at": "2026-04-04 15:48:09"
+    },
+    {
+        "pot_id": 47633734,
+        "title": "ENiGMA\u00bd BBS Software",
+        "category": "worldnews",
+        "score": 6,
+        "num_comments": 1,
+        "author": "NuSkooler",
+        "collected_at": "2026-04-04 15:48:10"
+    },
+    {
+        "pot_id": 47631648,
+        "title": "Automatic Textbook Formalization",
+        "category": "entertainment",
+        "score": 40,
+        "num_comments": 17,
+        "author": "tzury",
+        "collected_at": "2026-04-04 15:48:11"
+    },
+    {
+        "pot_id": 47633514,
+        "title": "Writing an LLM from scratch, part 32h \u2013 Interventions: full fat float32",
+        "category": "technology",
+        "score": 6,
+        "num_comments": 0,
+        "author": "gpjt",
+        "collected_at": "2026-04-04 15:48:16"
+    },
+    {
+        "pot_id": 47596739,
+        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+        "category": "technology",
+        "score": 149,
+        "num_comments": 45,
+        "author": "jackson-mcd",
+        "collected_at": "2026-04-04 15:48:19"
+    },
+    {
+        "pot_id": 47609564,
+        "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+        "category": "sports",
+        "score": 770,
+        "num_comments": 362,
+        "author": "hkmaxpro",
+        "collected_at": "2026-04-04 15:48:28"
+    },
+    {
+        "pot_id": 47621438,
+        "title": "Show HN: Made a little Artemis II tracker",
+        "category": "entertainment",
+        "score": 145,
+        "num_comments": 54,
+        "author": "codingmoh",
+        "collected_at": "2026-04-04 15:48:36"
+    },
+    {
+        "pot_id": 47635558,
+        "title": "Netflix just dropped their first public model on Hugging Face: VOID",
+        "category": "entertainment",
+        "score": 11,
+        "num_comments": 1,
+        "author": "rajtilakjee",
+        "collected_at": "2026-04-04 15:48:42"
+    },
+    {
+        "pot_id": 47615756,
+        "title": "Renewables reached nearly 50% of global electricity capacity last year",
+        "category": "worldnews",
+        "score": 293,
+        "num_comments": 145,
+        "author": "Growtika",
+        "collected_at": "2026-04-04 15:48:56"
+    },
+    {
+        "pot_id": 47606560,
+        "title": "Show HN: Dull \u2013 Instagram Without Reels, YouTube Without Shorts (iOS)",
+        "category": "entertainment",
+        "score": 149,
+        "num_comments": 117,
+        "author": "kasparnoor",
+        "collected_at": "2026-04-04 15:49:03"
+    },
+    {
+        "pot_id": 47604155,
+        "title": "SpaceX files to go public",
+        "category": "science",
+        "score": 393,
+        "num_comments": 569,
+        "author": "nutjob2",
+        "collected_at": "2026-04-04 15:49:15"
+    },
+    {
+        "pot_id": 47612601,
+        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+        "category": "entertainment",
+        "score": 895,
+        "num_comments": 426,
+        "author": "novaRom",
+        "collected_at": "2026-04-04 15:49:19"
+    },
+    {
+        "pot_id": 47612277,
+        "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
+        "category": "entertainment",
+        "score": 72,
+        "num_comments": 4,
+        "author": "nemoniac",
+        "collected_at": "2026-04-04 15:49:28"
+    },
+    {
+        "pot_id": 47615844,
+        "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
+        "category": "entertainment",
+        "score": 38,
+        "num_comments": 22,
+        "author": "Realman78",
+        "collected_at": "2026-04-04 15:49:29"
+    },
+    {
+        "pot_id": 47612321,
+        "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
+        "category": "entertainment",
+        "score": 109,
+        "num_comments": 64,
+        "author": "rdme",
+        "collected_at": "2026-04-04 15:49:39"
+    },
+    {
+        "pot_id": 47617217,
+        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
+        "category": "worldnews",
+        "score": 32,
+        "num_comments": 4,
+        "author": "j0rg3",
+        "collected_at": "2026-04-04 15:49:51"
+    },
+    {
+        "pot_id": 47618221,
+        "title": "The Australian government has announced gambling advertising reforms",
+        "category": "worldnews",
+        "score": 132,
+        "num_comments": 100,
+        "author": "gostsamo",
+        "collected_at": "2026-04-04 15:49:56"
+    },
+    {
+        "pot_id": 47618247,
+        "title": "Show HN: SyNumpy \u2013 a Header only C++17 library for working with NumPy Arrays",
+        "category": "entertainment",
+        "score": 19,
+        "num_comments": 3,
+        "author": "symisc_devel",
+        "collected_at": "2026-04-04 15:50:01"
+    },
+    {
+        "pot_id": 47589856,
+        "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+        "category": "entertainment",
+        "score": 201,
+        "num_comments": 57,
+        "author": "tjgreen",
+        "collected_at": "2026-04-04 15:50:09"
+    },
+    {
+        "pot_id": 47607394,
+        "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+        "category": "science",
+        "score": 40,
+        "num_comments": 6,
+        "author": "ruevs",
+        "collected_at": "2026-04-04 15:50:41"
+    },
+    {
+        "pot_id": 47630141,
+        "title": "Quantum computer researchers: Bitcoin encryption breakable in a few years",
+        "category": "science",
+        "score": 15,
+        "num_comments": 6,
+        "author": "croes",
+        "collected_at": "2026-04-04 15:50:47"
+    },
+    {
+        "pot_id": 47624879,
+        "title": "Switzerland hosts 'CERN of semiconductor research'",
+        "category": "science",
+        "score": 33,
+        "num_comments": 6,
+        "author": "teleforce",
+        "collected_at": "2026-04-04 15:50:50"
+    },
+    {
+        "pot_id": 47586614,
+        "title": "Open source CAD in the browser (Solvespace)",
+        "category": "science",
+        "score": 369,
+        "num_comments": 126,
+        "author": "phkahler",
+        "collected_at": "2026-04-04 15:50:58"
+    },
+    {
+        "pot_id": 47588349,
+        "title": "GitHub Monaspace Case Study",
+        "category": "science",
+        "score": 146,
+        "num_comments": 50,
+        "author": "homebrewer",
+        "collected_at": "2026-04-04 15:50:59"
+    },
+    {
+        "pot_id": 47603966,
+        "title": "Show HN: Flight-Viz \u2013 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+        "category": "entertainment",
+        "score": 86,
+        "num_comments": 45,
+        "author": "coolwulf",
+        "collected_at": "2026-04-04 15:51:09"
+    },
+    {
+        "pot_id": 47634086,
+        "title": "Vermin Supreme: When I'm President Everyone Gets a Free Pony [video]",
+        "category": "worldnews",
+        "score": 7,
+        "num_comments": 3,
+        "author": "nomilk",
+        "collected_at": "2026-04-04 15:51:13"
+    },
+    {
+        "pot_id": 47625860,
+        "title": "Ubuntu now has higher system hardware requirements than Windows 11",
+        "category": "worldnews",
+        "score": 22,
+        "num_comments": 7,
+        "author": "bundie",
+        "collected_at": "2026-04-04 15:51:22"
+    },
+    {
+        "pot_id": 47634567,
+        "title": "NHS staff resist using Palantir software",
+        "category": "worldnews",
+        "score": 12,
+        "num_comments": 0,
+        "author": "abdelhousni",
+        "collected_at": "2026-04-04 15:51:35"
+    },
+    {
+        "pot_id": 47634503,
+        "title": "UN chief tells Trump 'war is not a game show' after US bombs civilian targets",
+        "category": "worldnews",
+        "score": 19,
+        "num_comments": 1,
+        "author": "hkhn",
+        "collected_at": "2026-04-04 15:51:51"
+    },
+    {
+        "pot_id": 47588324,
+        "title": "Show HN: Sundial \u2013 a new way to look at a weather forecast",
+        "category": "entertainment",
+        "score": 63,
+        "num_comments": 26,
+        "author": "izaidi",
+        "collected_at": "2026-04-04 15:52:31"
+    },
+    {
+        "pot_id": 47613156,
+        "title": "ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026",
+        "category": "entertainment",
+        "score": 69,
+        "num_comments": 25,
+        "author": "jeditobe",
+        "collected_at": "2026-04-04 15:52:35"
+    },
+    {
+        "pot_id": 47634852,
+        "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 1,
+        "author": "1vuio0pswjnm7",
+        "collected_at": "2026-04-04 15:52:49"
+    },
+    {
+        "pot_id": 47621557,
+        "title": "Show HN: SkiFlee (an HTML5 game)",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 8,
+        "author": "BSTRhino",
+        "collected_at": "2026-04-04 15:52:54"
+    },
+    {
+        "pot_id": 47601310,
+        "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
+        "category": "worldnews",
+        "score": 85,
+        "num_comments": 118,
+        "author": "vrganj",
+        "collected_at": "2026-04-04 15:53:04"
+    },
+    {
+        "pot_id": 47585008,
+        "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+        "category": "worldnews",
+        "score": 61,
+        "num_comments": 14,
+        "author": "adulion",
+        "collected_at": "2026-04-04 15:53:05"
+    },
+    {
+        "pot_id": 47613668,
+        "title": "Show HN: Abject: the first self-aware object runtime",
+        "category": "worldnews",
+        "score": 9,
+        "num_comments": 3,
+        "author": "mempko",
+        "collected_at": "2026-04-04 15:53:21"
+    },
+    {
+        "pot_id": 47609883,
+        "title": "Salomi, a research repo on extreme low-bit transformer quantization",
+        "category": "science",
+        "score": 12,
+        "num_comments": 4,
+        "author": "Edward9055",
+        "collected_at": "2026-04-04 15:53:27"
+    },
+    {
+        "pot_id": 47609372,
+        "title": "Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",
+        "category": "entertainment",
+        "score": 10,
+        "num_comments": 4,
+        "author": "joaoli131",
+        "collected_at": "2026-04-04 15:53:34"
+    },
+    {
+        "pot_id": 47632990,
+        "title": "'Call A Boomer' phonebooth fosters cross-country, multi-generational connections",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 0,
+        "author": "gnabgib",
+        "collected_at": "2026-04-04 15:53:36"
+    },
+    {
+        "pot_id": 47617630,
+        "title": "Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",
+        "category": "worldnews",
+        "score": 7,
+        "num_comments": 1,
+        "author": "nikisweeting",
+        "collected_at": "2026-04-04 15:53:39"
+    },
+    {
+        "pot_id": 47628606,
+        "title": "Hello, World - NASA",
+        "category": "science",
+        "score": 5,
+        "num_comments": 0,
+        "author": "lateforwork",
+        "collected_at": "2026-04-04 15:53:41"
+    },
+    {
+        "pot_id": 47609725,
+        "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+        "category": "science",
+        "score": 92,
+        "num_comments": 17,
+        "author": "AustinDev",
+        "collected_at": "2026-04-04 15:53:47"
+    },
+    {
+        "pot_id": 47620867,
+        "title": "Proton Workspace: An encrypted suite for team collaboration",
+        "category": "sports",
+        "score": 26,
+        "num_comments": 4,
+        "author": "teekert",
+        "collected_at": "2026-04-04 15:53:48"
+    },
+    {
+        "pot_id": 47625385,
+        "title": "H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",
+        "category": "entertainment",
+        "score": 74,
+        "num_comments": 42,
+        "author": "phantomathkg",
+        "collected_at": "2026-04-04 15:53:50"
+    },
+    {
+        "pot_id": 47585860,
+        "title": "In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",
+        "category": "science",
+        "score": 32,
+        "num_comments": 2,
+        "author": "pseudolus",
+        "collected_at": "2026-04-04 15:53:52"
+    },
+    {
+        "pot_id": 47615058,
+        "title": "Old code never dies: why legacy software is often safer than new code",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 0,
+        "author": "speckx",
+        "collected_at": "2026-04-04 15:53:56"
+    },
+    {
+        "pot_id": 47616475,
+        "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+        "category": "entertainment",
+        "score": 29,
+        "num_comments": 0,
+        "author": "mooreds",
+        "collected_at": "2026-04-04 15:54:13"
+    },
+    {
+        "pot_id": 47606909,
+        "title": "Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video]",
+        "category": "worldnews",
+        "score": 35,
+        "num_comments": 1,
+        "author": "latexr",
+        "collected_at": "2026-04-04 15:54:26"
+    },
+    {
+        "pot_id": 47592113,
+        "title": "Jami \u2013 free/libre, end-to-end encrypted, and private communication software",
+        "category": "worldnews",
+        "score": 43,
+        "num_comments": 3,
+        "author": "smartmic",
+        "collected_at": "2026-04-04 15:54:27"
+    },
+    {
+        "pot_id": 47620442,
+        "title": "NASA: Artemis II Real time tracking with multiple views",
+        "category": "science",
+        "score": 11,
+        "num_comments": 0,
+        "author": "ColinWright",
+        "collected_at": "2026-04-04 15:54:28"
+    },
+    {
+        "pot_id": 47612035,
+        "title": "UK Government unveils rules to end subscription traps",
+        "category": "worldnews",
+        "score": 26,
+        "num_comments": 6,
+        "author": "_____k",
+        "collected_at": "2026-04-04 15:54:29"
+    },
+    {
+        "pot_id": 47610194,
+        "title": "Show HN: Tileserver-RS \u2013 Tile Server in Rust with MapLibre Native Rendering",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 0,
+        "author": "vinayakkulkarni",
+        "collected_at": "2026-04-04 15:54:46"
+    },
+    {
+        "pot_id": 47603534,
+        "title": "A new way to measure poverty shows the US falling behind Europe",
+        "category": "entertainment",
+        "score": 97,
+        "num_comments": 84,
+        "author": "_DeadFred_",
+        "collected_at": "2026-04-04 15:55:05"
+    },
+    {
+        "pot_id": 47607775,
+        "title": "\"Special 301\" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 0,
+        "author": "Lammy",
+        "collected_at": "2026-04-04 15:55:26"
+    },
+    {
+        "pot_id": 47590261,
+        "title": "Ask HN: Academic study on AI's impact on software development \u2013 want to join?",
+        "category": "worldnews",
+        "score": 30,
+        "num_comments": 15,
+        "author": "research2026",
+        "collected_at": "2026-04-04 15:55:55"
+    },
+    {
+        "pot_id": 47629960,
+        "title": "Big Banks Seeking a Piece of SpaceX's IPO Must Subscribe to Elon Musk's Grok",
+        "category": "science",
+        "score": 9,
+        "num_comments": 0,
+        "author": "spenvo",
+        "collected_at": "2026-04-04 15:56:16"
+    }
+]
