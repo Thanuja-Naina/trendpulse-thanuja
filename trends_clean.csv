@@ -1,0 +1,89 @@
+index,pot_id,title,category,score,num_comments,author,collected_at
+0,47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,698,569,firloop,2026-04-04 15:46:30
+1,47594936,GitHub has DMCA'd nearly all forks of the official Claude-code repo,technology,8,7,cg505,2026-04-04 15:46:39
+2,47633131,"Run Linux containers on Android, no root required",technology,127,42,politelemon,2026-04-04 15:46:40
+3,47621792,Post Mortem: axios NPM supply chain compromise,technology,259,116,Kyro38,2026-04-04 15:46:41
+4,47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,technology,310,118,denssumesh,2026-04-04 15:46:45
+5,47622616,The Technocracy Movement of the 1930s,technology,101,87,lazydogbrownfox,2026-04-04 15:46:47
+6,47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,technology,70,31,borski,2026-04-04 15:46:52
+7,47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,52,21,eichin,2026-04-04 15:46:59
+9,47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,399,117,detaro,2026-04-04 15:47:06
+10,47625952,Show HN: I built a frontpage for personal blogs,entertainment,712,181,ramkarthikk,2026-04-04 15:47:08
+11,47609492,50 years measuring the cleanest air,technology,13,1,defrost,2026-04-04 15:47:12
+12,47624645,Show HN: Apfel – The free AI already on your Mac,technology,679,141,franze,2026-04-04 15:47:14
+13,47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",technology,195,91,upofadown,2026-04-04 15:47:16
+14,47633640,How to Write Unmaintainable Code (1999),technology,40,10,downbad_,2026-04-04 15:47:17
+15,47632750,Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C,entertainment,97,38,hpscript,2026-04-04 15:47:19
+16,47626598,Show HN: ctx – an Agentic Development Environment (ADE),entertainment,42,51,luca-ctx,2026-04-04 15:47:24
+17,47587339,DCJ11Hack+ – DEC PDP/11 based homebrew computer,technology,26,0,zdw,2026-04-04 15:47:29
+18,47579818,What we learned building 100 API integrations with OpenCode,technology,96,21,rguldener,2026-04-04 15:47:31
+19,47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,entertainment,32,19,sagirodin,2026-04-04 15:47:32
+20,47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,168,64,MaximilianEmel,2026-04-04 15:47:34
+21,47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,entertainment,16,11,slp3r,2026-04-04 15:47:41
+22,47627419,The Axios supply chain attack used individually targeted social engineering,technology,40,10,cmitsakis,2026-04-04 15:47:42
+23,47635340,Let's be Honest about AI Coding,technology,5,2,lordofmoria,2026-04-04 15:47:44
+24,47633676,"Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",sports,57,49,angst,2026-04-04 15:47:45
+25,47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",science,77,34,Bender,2026-04-04 15:47:50
+26,47617376,OpenAI Acquires TBPN,technology,236,190,surprisetalk,2026-04-04 15:47:54
+27,47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,technology,226,135,nickslaughter02,2026-04-04 15:47:55
+28,47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,554,112,AbuAssar,2026-04-04 15:47:57
+29,47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,482,355,mooreds,2026-04-04 15:47:59
+30,47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,worldnews,43,21,tosh,2026-04-04 15:48:01
+31,47618189,Tailscale's new macOS home,technology,556,302,tosh,2026-04-04 15:48:02
+32,47634240,OpenAI Cap Table leak reveals Microsoft's 18x return,technology,27,2,diehunde,2026-04-04 15:48:04
+33,47615002,Qwen3.6-Plus: Towards real world agents,worldnews,579,202,pretext,2026-04-04 15:48:06
+34,47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,353,190,sedev,2026-04-04 15:48:09
+35,47633734,ENiGMA½ BBS Software,worldnews,6,1,NuSkooler,2026-04-04 15:48:10
+36,47631648,Automatic Textbook Formalization,entertainment,40,17,tzury,2026-04-04 15:48:11
+37,47633514,"Writing an LLM from scratch, part 32h – Interventions: full fat float32",technology,6,0,gpjt,2026-04-04 15:48:16
+38,47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,technology,149,45,jackson-mcd,2026-04-04 15:48:19
+39,47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,770,362,hkmaxpro,2026-04-04 15:48:28
+40,47621438,Show HN: Made a little Artemis II tracker,entertainment,145,54,codingmoh,2026-04-04 15:48:36
+41,47635558,Netflix just dropped their first public model on Hugging Face: VOID,entertainment,11,1,rajtilakjee,2026-04-04 15:48:42
+42,47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,293,145,Growtika,2026-04-04 15:48:56
+43,47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,149,117,kasparnoor,2026-04-04 15:49:03
+44,47604155,SpaceX files to go public,science,393,569,nutjob2,2026-04-04 15:49:15
+45,47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,895,426,novaRom,2026-04-04 15:49:19
+46,47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,72,4,nemoniac,2026-04-04 15:49:28
+47,47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),entertainment,38,22,Realman78,2026-04-04 15:49:29
+48,47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,109,64,rdme,2026-04-04 15:49:39
+49,47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,worldnews,32,4,j0rg3,2026-04-04 15:49:51
+50,47618221,The Australian government has announced gambling advertising reforms,worldnews,132,100,gostsamo,2026-04-04 15:49:56
+51,47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,entertainment,19,3,symisc_devel,2026-04-04 15:50:01
+52,47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,201,57,tjgreen,2026-04-04 15:50:09
+53,47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-04 15:50:41
+54,47630141,Quantum computer researchers: Bitcoin encryption breakable in a few years,science,15,6,croes,2026-04-04 15:50:47
+55,47624879,Switzerland hosts 'CERN of semiconductor research',science,33,6,teleforce,2026-04-04 15:50:50
+56,47586614,Open source CAD in the browser (Solvespace),science,369,126,phkahler,2026-04-04 15:50:58
+57,47588349,GitHub Monaspace Case Study,science,146,50,homebrewer,2026-04-04 15:50:59
+58,47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,entertainment,86,45,coolwulf,2026-04-04 15:51:09
+59,47634086,Vermin Supreme: When I'm President Everyone Gets a Free Pony [video],worldnews,7,3,nomilk,2026-04-04 15:51:13
+60,47625860,Ubuntu now has higher system hardware requirements than Windows 11,worldnews,22,7,bundie,2026-04-04 15:51:22
+61,47634567,NHS staff resist using Palantir software,worldnews,12,0,abdelhousni,2026-04-04 15:51:35
+62,47634503,UN chief tells Trump 'war is not a game show' after US bombs civilian targets,worldnews,19,1,hkhn,2026-04-04 15:51:51
+63,47588324,Show HN: Sundial – a new way to look at a weather forecast,entertainment,63,26,izaidi,2026-04-04 15:52:31
+64,47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,entertainment,69,25,jeditobe,2026-04-04 15:52:35
+65,47634852,Meta lays off hundreds as tech giant pushes forward with AI investment,worldnews,10,1,1vuio0pswjnm7,2026-04-04 15:52:49
+66,47621557,Show HN: SkiFlee (an HTML5 game),sports,7,8,BSTRhino,2026-04-04 15:52:54
+67,47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,85,118,vrganj,2026-04-04 15:53:04
+68,47585008,"7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",worldnews,61,14,adulion,2026-04-04 15:53:05
+69,47613668,Show HN: Abject: the first self-aware object runtime,worldnews,9,3,mempko,2026-04-04 15:53:21
+70,47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-04 15:53:27
+71,47609372,"Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",entertainment,10,4,joaoli131,2026-04-04 15:53:34
+72,47632990,"'Call A Boomer' phonebooth fosters cross-country, multi-generational connections",worldnews,5,0,gnabgib,2026-04-04 15:53:36
+73,47617630,"Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",worldnews,7,1,nikisweeting,2026-04-04 15:53:39
+74,47628606,"Hello, World - NASA",science,5,0,lateforwork,2026-04-04 15:53:41
+75,47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,92,17,AustinDev,2026-04-04 15:53:47
+76,47620867,Proton Workspace: An encrypted suite for team collaboration,sports,26,4,teekert,2026-04-04 15:53:48
+77,47625385,"H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",entertainment,74,42,phantomathkg,2026-04-04 15:53:50
+78,47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2026-04-04 15:53:52
+79,47615058,Old code never dies: why legacy software is often safer than new code,worldnews,5,0,speckx,2026-04-04 15:53:56
+80,47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,entertainment,29,0,mooreds,2026-04-04 15:54:13
+81,47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],worldnews,35,1,latexr,2026-04-04 15:54:26
+82,47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",worldnews,43,3,smartmic,2026-04-04 15:54:27
+83,47620442,NASA: Artemis II Real time tracking with multiple views,science,11,0,ColinWright,2026-04-04 15:54:28
+84,47612035,UK Government unveils rules to end subscription traps,worldnews,26,6,_____k,2026-04-04 15:54:29
+86,47603534,A new way to measure poverty shows the US falling behind Europe,entertainment,97,84,_DeadFred_,2026-04-04 15:55:05
+87,47607775,"""Special 301"" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",sports,7,0,Lammy,2026-04-04 15:55:26
+88,47590261,Ask HN: Academic study on AI's impact on software development – want to join?,worldnews,30,15,research2026,2026-04-04 15:55:55
+89,47629960,Big Banks Seeking a Piece of SpaceX's IPO Must Subscribe to Elon Musk's Grok,science,9,0,spenvo,2026-04-04 15:56:16
